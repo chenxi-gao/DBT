@@ -1,0 +1,4 @@
+product_id,product_name,category,unit_price,weight_kg,supplier_id
+P001,Gaming Mouse,Electronics,50.00,0.2,S01
+P002,Mechanical Keyboard,Electronics,150.00,1.0,S01
+P003,Gaming Headset,Electronics,80.00,0.5,S02 
